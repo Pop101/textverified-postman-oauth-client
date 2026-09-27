@@ -1,0 +1,1 @@
+{"client_id":"https://pop101.github.io/textverified-postman-oauth-client/oauth-client.json","client_name":"TextVerified Postman MCP test","redirect_uris":["https://pop101.github.io/textverified-postman-oauth-client/callback"],"token_endpoint_auth_method":"none","scope":"resources.read messages.readwrite resources.purchase offline_access"}
